@@ -5,6 +5,9 @@
 #### 현재 master 브랜치를 main으로 이름 변경
 - git branch -m master main
 
+#### 기존의 master 브랜치를 원격 저장소에서 삭제
+- git push origin --delete master
+
 ***
 
 #### Git Push

@@ -2,6 +2,9 @@
 - git config --global user.name "본인 git 아이디"
 - git config --global user.email "본인 git 이메일"
 
+#### 현재 master 브랜치를 main으로 이름 변경
+git branch -m master main
+
 ***
 
 #### Git Push
